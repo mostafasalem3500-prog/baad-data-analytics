@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+design-qa.md
+design-comparison.jpg
+implementation-dashboard.jpg
