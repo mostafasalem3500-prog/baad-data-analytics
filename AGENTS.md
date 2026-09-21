@@ -14,3 +14,4 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - English is the default language. Arabic is available through an EN/AR toggle and must use full RTL layout.
 - The product is a fictional portfolio demonstration for a data analytics and financial reporting consultancy. All sample metrics and case studies must be labeled as demo data.
 - The primary conversion is a qualified project inquiry. The dashboard preview, report export, services, and case studies support that conversion.
+- Keep motion purposeful and premium: restrained hero staging, scroll reveals, animated metrics, active navigation, responsive micro-interactions, and full `prefers-reduced-motion` support. Avoid decorative motion that delays actions.
